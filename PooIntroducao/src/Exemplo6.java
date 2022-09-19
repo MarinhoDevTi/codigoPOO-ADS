@@ -39,6 +39,13 @@ public class Exemplo6 {
         System.out.println("Atualização dos Dados do Produto: " + p);
 
         sc.close();
+
+        
+    }
+
+    @Override
+    public String toString() {
+        return "Exemplo6 []";
     }
     
 }
