@@ -1,6 +1,5 @@
 import java.util.Locale;
 import java.util.Scanner;
-
 import utils.Calculadora;
 
 //versão 1
